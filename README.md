@@ -26,7 +26,7 @@ UniConnect es una aplicación móvil inteligente que conecta estudiantes univers
 
 1️⃣ Clona el repositorio
 
-git clone https://github.com/Felipe7774/Uniconet.git cd Uniconet/UniConnect
+git clone https://github.com/SantiagoMartinez24/UniConnect.git cd Uniconet/UniConnect
 
 2️⃣ Abre el proyecto en Android Studio
 
